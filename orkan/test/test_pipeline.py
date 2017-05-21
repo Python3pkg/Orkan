@@ -25,7 +25,7 @@ def v(n, callback):
     """Simple bolt for an inifinte stream of incoming data, that
     prints the result at the end of the Pipeline and does not pass
     anything on."""
-    print n
+    print(n)
 
 
 TEST_RUNS = 1
